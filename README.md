@@ -1,3 +1,9 @@
+# 🚍 EasyRide
+
+**AI-powered urban mobility platform** designed to improve public transport efficiency through real-time tracking, smart routing, and accessibility-focused features.
+
+---
+
 # React + Vite + FastAPI Boilerplate
 
 This is a simple boilerplate for a React frontend and a FastAPI backend.
@@ -28,25 +34,44 @@ This is a simple boilerplate for a React frontend and a FastAPI backend.
     pip install -r requirements.txt
     ```
 
-## Running
 
-### Windows
-Double-click `run.bat` or run it from the terminal:
+## 🚀 Overview
 
-```bash
-.\run.bat
-```
+EasyRide addresses challenges in urban commuting, such as unpredictable bus timings, delays, and overcrowding by providing a **unified, real-time transport solution**.
 
-### Mac/Linux
-Make the script executable (first time only) and run it:
+---
 
-```bash
-chmod +x run.sh
-./run.sh
-```
+## 💡 Key Features
+
+* 📍 **Live Bus Tracking** – Real-time GPS location with ETA and route details
+* 🗺️ **Smart Route Planning** – Multi-modal navigation with voice support
+* ♿ **Accessibility Mode** – Filters for wheelchair-friendly buses and priority features
+* 🚗 **Carpooling System** – Ride sharing to reduce traffic and pollution
+* 🔗 **Blockchain Logs** – Secure and transparent storage of feedback and delays
+* 🎙️ **AI Voice Assistant** – Voice-based navigation and interaction
+* 🌐 **Multi-language Support** – Inclusive experience for diverse users
+
+---
+
+## 🛠️ Tech Stack
+
+* Frontend: Web/Mobile Interface
+* AI: Voice assistant, route optimization
+* Blockchain: Secure transport logs
+* GPS/IoT (future scope): Real-time tracking
+
+---
+
+## 🎯 Impact
+
+* Reduces waiting time and commute uncertainty
+* Promotes sustainable transportation
+* Enhances accessibility and inclusivity
+* Improves trust through transparent systems
+
+---
 
 This will start:
 - Backend at http://localhost:8000
 - Frontend at http://localhost:5173
 
-The frontend is configured to proxy `/api` requests to the backend.
